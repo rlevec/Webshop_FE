@@ -1,0 +1,71 @@
+@font-face {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+
+:root {
+    --lightest-blue: #F0F8FF;
+    --light-blue: #AFDBF5;
+    --main-blue: #002878;
+    --dark-blue: #152238;
+
+    --common-light: white;
+    --common-dark: black;
+
+    --boxshadow-light-secondary: 0px 0px 8px 2px rgba(0, 40, 120, 1);
+
+    --boxshadow-blue: 0px 0px 15px 7.5px rgba(0, 40, 120, 1);
+
+    --boxshadow-blue-gender: 0px 0px 10px 5px rgba(0, 40, 120, 1);
+
+    --font-size-title-monitor: 36px;
+    --font-size-title-desktop: 20px;
+    --font-size-title-tablet: 16px;
+    --font-size-title-phone: 14px;
+
+    --letter-spacing-title: 1.5px;
+
+    --margin-zero: 0;
+    --padding-zero: 0;
+
+    --input-width: 300px;
+    --input-height: 40px;
+
+    --border-none-input: none;
+    --border-bottom-input: 3px solid;
+
+    --border-input-outline: none;
+
+    --font-size-input: 20px;
+
+
+    --button-sign-in-height: 40px;
+    --button-sign-in-width: 260px;
+    --button-sign-in-border: none;
+
+    --button-sign-up-height: 75px;
+    --button-sign-up-width: 75px;
+    --button-sign-up-border: none;
+
+    --button-font-size: 16px;
+
+    --common-cursor: pointer;
+
+    --common-opacity: 0.8;
+
+    --placeholder-font-weight: 100;
+    --placeholder-letter-spacing: 0.5px;
+
+    --button-border-radius: 5px;
+
+    --error-color: #CC0000;
+    --success-color: #198754;
+
+    --home-border: 1px solid #AFDBF5;
+}
